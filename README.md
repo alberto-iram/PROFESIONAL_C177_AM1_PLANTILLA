@@ -1,5 +1,5 @@
-# PRO-C177-Boilerplate Code (Teacher)
-Create virtual env using following commands to run this project:
+# PROFESIONAL_C177_PLANTILLA (MAESTRA)
+Crea un entorno virtual usando los siguientes comandos para ejecutar este proyecto:
 #### Windows:
 python3.8 -m venv venv
 
